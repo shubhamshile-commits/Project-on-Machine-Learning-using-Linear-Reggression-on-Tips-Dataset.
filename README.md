@@ -1,0 +1,2 @@
+# Project-on-Machine-Learning-using-Linear-Reggression-on-Tips-Dataset.
+This project applies machine learning using linear regression to analyze the tips dataset from restaurants. The model studies the relationship between the total bill and the tip amount to predict expected tips. It includes data exploration, preprocessing, model training, and evaluation to understand factors influencing tipping behavior.
